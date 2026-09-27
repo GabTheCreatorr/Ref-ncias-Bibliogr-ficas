@@ -1,2 +1,2 @@
-# Ref-ncias-Bibliogr-ficas
+# Referências Bibliográficas
 HTML para referências usando QRcode
